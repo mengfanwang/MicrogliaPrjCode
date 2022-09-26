@@ -18,8 +18,8 @@ end
 fprintf("Coefficient of interpolation:%f\n", coef);
 %
 
-file_name = 'D:\dropbox\Modify Series Data\SL-092320-slice1-hippo-vessel-Modify Series';
-load([file_name '\data_c2']);
+file_name = '/work/Mengfan/MicrogliaData/100920-slice2-cortex-vessel-after';
+load(fullfile(file_name, 'data_c2'));
 data = data2;
 [x,y,z,t] = size(data);
 
