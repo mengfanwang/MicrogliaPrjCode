@@ -1,0 +1,28 @@
+﻿  main.c
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(516,38): error C2296: “/”: 非法，左操作数包含“int *”类型
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(523,57): error C2296: “*”: 非法，左操作数包含“int [3]”类型
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(523,57): error C2297: “*”: 非法，右操作数包含“int [3]”类型
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(523,85): error C2198: “malloc”: 用于调用的参数太少
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(524,51): error C2296: “*”: 非法，左操作数包含“int [3]”类型
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(524,51): error C2297: “*”: 非法，右操作数包含“int [3]”类型
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(530,61): error C2296: “*”: 非法，左操作数包含“int [3]”类型
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(530,61): error C2297: “*”: 非法，右操作数包含“int [3]”类型
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(530,85): error C2198: “malloc”: 用于调用的参数太少
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(532,59): error C2296: “*”: 非法，左操作数包含“int [3]”类型
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(532,59): error C2297: “*”: 非法，右操作数包含“int [3]”类型
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(532,83): error C2198: “malloc”: 用于调用的参数太少
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(542,57): error C2297: “*”: 非法，右操作数包含“int [3]”类型
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(542,92): error C2198: “malloc”: 用于调用的参数太少
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(543,64): error C2297: “*”: 非法，右操作数包含“int [3]”类型
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(543,101): error C2198: “malloc”: 用于调用的参数太少
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(545,60): error C2296: “*”: 非法，左操作数包含“int [3]”类型
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(545,60): error C2297: “*”: 非法，右操作数包含“int [3]”类型
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(545,84): error C2198: “malloc”: 用于调用的参数太少
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(553,43): warning C4047: “<”:“int”与“int [3]”的间接级别不同
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(554,47): warning C4047: “<”:“int”与“int [3]”的间接级别不同
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(555,51): warning C4047: “<”:“int”与“int [3]”的间接级别不同
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(638,48): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(648,51): error C2296: “*”: 非法，左操作数包含“int [3]”类型
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(648,51): error C2297: “*”: 非法，右操作数包含“int [3]”类型
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(518,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\main.c(519,1): warning C4305: “初始化”: 从“double”到“float”截断

@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\mengf\Desktop\geodesic\geodesic_v2\main.c(339,27): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\Users\mengf\Desktop\geodesic\geodesic_v2\main.c(608,44): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\mengf\Desktop\geodesic\geodesic_v2\main.c(420,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\mengf\Desktop\geodesic\geodesic_v2\main.c(421,1): warning C4305: “初始化”: 从“double”到“float”截断
+  geodesic_v2.vcxproj -> C:\Users\mengf\Desktop\geodesic\geodesic_v2\Debug\geodesic_v2.exe

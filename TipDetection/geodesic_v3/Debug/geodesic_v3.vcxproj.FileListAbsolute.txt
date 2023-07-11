@@ -1,0 +1,2 @@
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\Debug\geodesic_v3.exe
+C:\Users\mengf\Desktop\geodesic\geodesic_v3\Debug\geodesic_v3.pdb
